@@ -405,20 +405,20 @@
             <div class="text-center mb-12 fade-in">
                 <h2 class="text-4xl font-bold mb-4">Need a Stump Gone Fast? Call Mr. Stump Today!</h2>
                 <p class="text-xl text-gray-700 max-w-3xl mx-auto mb-4">
-                    Serving Union County, Mecklenburg County, and surrounding areas since 1988, Tony Clark is the trusted expert in precision stump grinding. With powerful, remote-controlled equipment that digs deeper than most competitors, Tony delivers fast, affordable results�even in tight spaces.
+                    Serving Union County, Mecklenburg County, and surrounding areas since 1988, Tony Clark is the trusted expert in precision stump grinding. With powerful, remote-controlled equipment that digs deeper than most competitors, Tony delivers fast, affordable results—even in tight spaces.
                 </p>
-                <p class="text-2xl font-bold red-text">?? Call or Text 704-492-0474 for a Free Estimate</p>
+                <p class="text-2xl font-bold red-text">📞 Call or Text 704-492-0474 for a Free Estimate</p>
             </div>
             
             <div class="grid md:grid-cols-2 gap-8 items-center">
                 <div class="fade-in">
                     <h3 class="text-2xl font-bold mb-4">Stump Grinder with Remote Control Precision</h3>
                     <ul class="space-y-3 text-lg">
-                        <li class="flex items-center"><span class="text-red-600 mr-2">?</span> Heavy-duty stump grinding equipment with deep grinding capability</li>
-                        <li class="flex items-center"><span class="text-red-600 mr-2">?</span> Deep grinding up to 24 inches - deeper than most competitors</li>
-                        <li class="flex items-center"><span class="text-red-600 mr-2">?</span> Up to 36" wide, 24" deep grinding capacity</li>
-                        <li class="flex items-center"><span class="text-red-600 mr-2">?</span> Remote control precision technology for safety and accuracy</li>
-                        <li class="flex items-center"><span class="text-red-600 mr-2">?</span> Over 35 years serving homeowners, landscapers, and contractors</li>
+                        <li class="flex items-center"><span class="text-red-600 mr-2">✓</span> Heavy-duty stump grinding equipment with deep grinding capability</li>
+                        <li class="flex items-center"><span class="text-red-600 mr-2">✓</span> Deep grinding up to 24 inches - deeper than most competitors</li>
+                        <li class="flex items-center"><span class="text-red-600 mr-2">✓</span> Up to 36" wide, 24" deep grinding capacity</li>
+                        <li class="flex items-center"><span class="text-red-600 mr-2">✓</span> Remote control precision technology for safety and accuracy</li>
+                        <li class="flex items-center"><span class="text-red-600 mr-2">✓</span> Over 35 years serving homeowners, landscapers, and contractors</li>
                     </ul>
                 </div>
                 
@@ -440,12 +440,12 @@
         <div class="container mx-auto px-4">
             <h2 class="text-3xl font-bold text-center mb-6">See Tony in Action!</h2>
             <p class="text-xl text-gray-700 text-center max-w-4xl mx-auto mb-12">
-                Contractors and landscapers rely on us when they need large, deep stumps removed�because we have the expertise to get the job done accurately, even in tight or challenging spaces.
+                Contractors and landscapers rely on us when they need large, deep stumps removed—because we have the expertise to get the job done accurately, even in tight or challenging spaces.
             </p>
             <div class="max-w-4xl mx-auto">
                 <div class="bg-white rounded-lg shadow-lg overflow-hidden">
                     <div class="bg-gray-800 text-white p-4 text-center">
-                        <p class="text-lg font-semibold">?? Mr. Stump Professional Work Video</p>
+                        <p class="text-lg font-semibold">📹 Mr. Stump Professional Work Video</p>
                         <p class="text-sm text-gray-300">See Tony's precision stump grinding in action</p>
                     </div>
                     <div id="videoContainer" class="bg-gradient-to-br from-green-800 to-brown-600 h-80 flex items-center justify-center relative">
@@ -468,12 +468,12 @@
                         <h3 class="text-2xl font-bold mb-4">Find Us on Google</h3>
                         <div class="bg-gray-100 p-4 rounded-lg mb-4">
                             <p class="font-semibold mb-2">Mr. Stump Stump Grinding Service</p>
-                            <p class="text-sm text-gray-600 mb-2">?? Serving Union & Mecklenburg Counties</p>
+                            <p class="text-sm text-gray-600 mb-2">📍 Serving Union & Mecklenburg Counties</p>
                             <div class="flex items-center mb-2">
-                                <span class="text-yellow-400">?????</span>
+                                <span class="text-yellow-400">★★★★★</span>
                                 <span class="ml-2 text-sm">4.9 (127 reviews)</span>
                             </div>
-                            <p class="text-sm text-green-600">? Open � Closes 6 PM</p>
+                            <p class="text-sm text-green-600">✅ Open • Closes 6 PM</p>
                         </div>
                         <div class="space-y-2 text-sm">
                             <p><strong>Hours:</strong> Mon-Sat 8AM-6PM, Sun Closed</p>
@@ -544,7 +544,7 @@
                         <div class="mt-3 text-center">
                             <p class="text-sm text-gray-600">Click on counties or cities to learn more about our service areas</p>
                             <button onclick="callForService()" class="mt-2 bg-red-600 hover:bg-red-700 text-white px-4 py-2 rounded-lg text-sm font-bold">
-                                ?? Call for Service in Your Area
+                                📞 Call for Service in Your Area
                             </button>
                         </div>
                     </div>
@@ -600,7 +600,7 @@
             
             <div class="text-center mt-8">
                 <button onclick="openAdminPanel()" class="bg-blue-600 hover:bg-blue-700 text-white font-bold py-3 px-6 rounded-lg">
-                    ?? Upload Your Work Photos
+                    📸 Upload Your Work Photos
                 </button>
             </div>
         </div>
@@ -614,7 +614,7 @@
             <div class="grid md:grid-cols-3 gap-6 mb-8">
                 <div class="review-card p-6 rounded-lg">
                     <div class="flex mb-4">
-                        <span class="text-yellow-400">?????</span>
+                        <span class="text-yellow-400">★★★★★</span>
                     </div>
                     <p class="mb-4">"Mr Stump did a great job grinding a large oak tree stump in my yard. He was super responsive and made it over same day. Very competitive on the quote as well. Would recommend for any stump removal."</p>
                     <p class="font-semibold">- James M.</p>
@@ -622,7 +622,7 @@
                 
                 <div class="review-card p-6 rounded-lg">
                     <div class="flex mb-4">
-                        <span class="text-yellow-400">?????</span>
+                        <span class="text-yellow-400">★★★★★</span>
                     </div>
                     <p class="mb-4">"Always goes above and beyond to make sure he understands our needs. Covers all potential issues, asks about possible underground lines. On time, does a great job. Amazing to watch the remotely operated machine. Very reasonable pricing. We have used Mr. Stump several times and will call him again when we need him. Would recommend Mr. Stump (Tony) to anyone needing stumps removed."</p>
                     <p class="font-semibold">- Pamela D.</p>
@@ -630,7 +630,7 @@
                 
                 <div class="review-card p-6 rounded-lg">
                     <div class="flex mb-4">
-                        <span class="text-yellow-400">?????</span>
+                        <span class="text-yellow-400">★★★★★</span>
                     </div>
                     <p class="mb-4">"I called Tony with Mr. Stump for help with about ten bush and small tree stumps and roots. On the phone, he asked for certain measurements and info about access and water lines, etc. He gave me a fair and affordable price right over the phone. He was able to fit me in right away and the work was done well and completely in a matter of hours. Could not be more pleased; Highly Recommend!"</p>
                     <p class="font-semibold">- Jake B.</p>
@@ -638,7 +638,7 @@
                 
                 <div class="review-card p-6 rounded-lg">
                     <div class="flex mb-4">
-                        <span class="text-yellow-400">?????</span>
+                        <span class="text-yellow-400">★★★★★</span>
                     </div>
                     <p class="mb-4">"Tony was very professional and did excellent work. He ground our stumps deeper than we expected and cleaned up all the debris. His equipment is top-notch and he knows how to use it. Fair pricing and great communication throughout the process."</p>
                     <p class="font-semibold">- Sarah K.</p>
@@ -646,7 +646,7 @@
                 
                 <div class="review-card p-6 rounded-lg">
                     <div class="flex mb-4">
-                        <span class="text-yellow-400">?????</span>
+                        <span class="text-yellow-400">★★★★★</span>
                     </div>
                     <p class="mb-4">"Excellent service! Tony came out the same day I called and gave me a fair quote. The work was completed quickly and professionally. He ground the stump well below ground level so we could plant grass. Highly recommend Mr. Stump for anyone needing stump removal in the Charlotte area."</p>
                     <p class="font-semibold">- Michael R.</p>
@@ -654,7 +654,7 @@
                 
                 <div class="review-card p-6 rounded-lg">
                     <div class="flex mb-4">
-                        <span class="text-yellow-400">?????</span>
+                        <span class="text-yellow-400">★★★★★</span>
                     </div>
                     <p class="mb-4">"Tony is reliable, professional, and does quality work. He removed several large stumps from our property and the results were perfect. His remote control equipment is impressive and he operates it with precision. Will definitely use him again."</p>
                     <p class="font-semibold">- Lisa T.</p>
@@ -662,7 +662,7 @@
                 
                 <div class="review-card p-6 rounded-lg">
                     <div class="flex mb-4">
-                        <span class="text-yellow-400">?????</span>
+                        <span class="text-yellow-400">★★★★★</span>
                     </div>
                     <p class="mb-4">"Tony did an outstanding job removing multiple stumps from our property. His equipment is impressive and he operates it with skill and precision. The pricing was very fair and he completed the work faster than expected. Highly recommend!"</p>
                     <p class="font-semibold">- Robert H.</p>
@@ -670,7 +670,7 @@
                 
                 <div class="review-card p-6 rounded-lg">
                     <div class="flex mb-4">
-                        <span class="text-yellow-400">?????</span>
+                        <span class="text-yellow-400">★★★★★</span>
                     </div>
                     <p class="mb-4">"Great experience with Mr. Stump! Tony was prompt, professional, and did exactly what he said he would do. The stump was ground well below grade and the area was left clean. Would definitely use again and recommend to others."</p>
                     <p class="font-semibold">- Jennifer L.</p>
@@ -678,7 +678,7 @@
                 
                 <div class="review-card p-6 rounded-lg">
                     <div class="flex mb-4">
-                        <span class="text-yellow-400">?????</span>
+                        <span class="text-yellow-400">★★★★★</span>
                     </div>
                     <p class="mb-4">"Tony provided excellent service at a fair price. He was able to remove a large stump in a tight space that other companies said couldn't be done. His remote control equipment made all the difference. Very satisfied with the results!"</p>
                     <p class="font-semibold">- David M.</p>
@@ -686,7 +686,7 @@
                 
                 <div class="review-card p-6 rounded-lg">
                     <div class="flex mb-4">
-                        <span class="text-yellow-400">?????</span>
+                        <span class="text-yellow-400">★★★★★</span>
                     </div>
                     <p class="mb-4">"Professional, reliable, and reasonably priced. Tony ground our stump deeper than we expected and left the area clean. His communication was excellent throughout the process. Would definitely recommend Mr. Stump to anyone needing this service."</p>
                     <p class="font-semibold">- Karen S.</p>
@@ -694,7 +694,7 @@
                 
                 <div class="review-card p-6 rounded-lg">
                     <div class="flex mb-4">
-                        <span class="text-yellow-400">?????</span>
+                        <span class="text-yellow-400">★★★★★</span>
                     </div>
                     <p class="mb-4">"Tony is the best! He removed several stumps from our yard and did an amazing job. His equipment is top-notch and he really knows what he's doing. Fair pricing and excellent work quality. Will use him again for sure!"</p>
                     <p class="font-semibold">- Mark W.</p>
@@ -702,7 +702,7 @@
                 
                 <div class="review-card p-6 rounded-lg">
                     <div class="flex mb-4">
-                        <span class="text-yellow-400">?????</span>
+                        <span class="text-yellow-400">★★★★★</span>
                     </div>
                     <p class="mb-4">"Fantastic service from start to finish. Tony was responsive, professional, and did excellent work. He ground the stump much deeper than I expected and cleaned up everything perfectly. Highly recommend Mr. Stump for anyone in the Charlotte area!"</p>
                     <p class="font-semibold">- Amanda R.</p>
@@ -724,21 +724,21 @@
     <section class="py-8 bg-yellow-100">
         <div class="container mx-auto px-4 text-center">
             <h3 class="text-2xl font-bold mb-2">Prompt Service Available!</h3>
-            <p class="text-lg mb-4">Tony has over 35 years of trusted experience � Deep grinding up to 24" � Professional stump grinding service</p>
+            <p class="text-lg mb-4">Tony has over 35 years of trusted experience • Deep grinding up to 24" • Professional stump grinding service</p>
             <div class="bg-white p-4 rounded-lg shadow-lg max-w-4xl mx-auto mb-4">
                 <h4 class="text-xl font-bold mb-3 red-text">Professional Equipment</h4>
                 <p class="text-gray-700 mb-2">Heavy-duty stump grinding machinery with the latest safety features and remote control technology for precision work.</p>
                 <div class="grid md:grid-cols-3 gap-4 text-sm">
                     <div class="flex items-center">
-                        <span class="text-red-600 mr-2">�</span>
+                        <span class="text-red-600 mr-2">•</span>
                         <span>Remote Control Precision</span>
                     </div>
                     <div class="flex items-center">
-                        <span class="text-red-600 mr-2">�</span>
+                        <span class="text-red-600 mr-2">•</span>
                         <span>Latest Safety Features</span>
                     </div>
                     <div class="flex items-center">
-                        <span class="text-red-600 mr-2">�</span>
+                        <span class="text-red-600 mr-2">•</span>
                         <span>Heavy-Duty Machinery</span>
                     </div>
                 </div>
@@ -759,10 +759,10 @@
                     <h3 class="text-xl font-bold mb-3 red-text">Do I need to mark utility lines before stump grinding?</h3>
                     <p class="text-gray-700 mb-3">Yes, absolutely! Before any stump grinding work begins, customers must confirm the location of all underground utilities including gas lines, fiber optic cables, electrical lines, water pipes, and sewer lines. This is a critical safety requirement.</p>
                     <ul class="space-y-2 text-gray-700">
-                        <li>� Call 811 (North Carolina 811) at least 2-3 business days before your scheduled service</li>
-                        <li>� Mark all utility locations with flags or spray paint</li>
-                        <li>� Tony is not responsible for damage to unmarked underground utilities</li>
-                        <li>� This protects both you and our equipment from costly damage</li>
+                        <li>• Call 811 (North Carolina 811) at least 2-3 business days before your scheduled service</li>
+                        <li>• Mark all utility locations with flags or spray paint</li>
+                        <li>• Tony is not responsible for damage to unmarked underground utilities</li>
+                        <li>• This protects both you and our equipment from costly damage</li>
                     </ul>
                 </div>
                 
@@ -770,11 +770,11 @@
                     <h3 class="text-xl font-bold mb-3 red-text">How deep can your equipment grind?</h3>
                     <p class="text-gray-700 mb-3">Our professional-grade stump grinding equipment can grind stumps from 6 inches to 24 inches deep - significantly deeper than most competitors in Union County and Mecklenburg County.</p>
                     <ul class="space-y-2 text-gray-700">
-                        <li>� Standard grinding depth: 12-18 inches below ground level</li>
-                        <li>� Maximum grinding depth: Up to 24 inches for large stumps</li>
-                        <li>� Grinding width: Up to 36 inches wide</li>
-                        <li>� Deep enough for new landscaping, grass planting, or construction</li>
-                        <li>� Remote control precision technology ensures accurate depth control</li>
+                        <li>• Standard grinding depth: 12-18 inches below ground level</li>
+                        <li>• Maximum grinding depth: Up to 24 inches for large stumps</li>
+                        <li>• Grinding width: Up to 36 inches wide</li>
+                        <li>• Deep enough for new landscaping, grass planting, or construction</li>
+                        <li>• Remote control precision technology ensures accurate depth control</li>
                     </ul>
                 </div>
                 
@@ -782,12 +782,12 @@
                     <h3 class="text-xl font-bold mb-3 red-text">Can I get rid of wood chips after stump grinding?</h3>
                     <p class="text-gray-700 mb-3">Yes! The wood chips produced during stump grinding are yours to keep, and there are several easy ways to dispose of them or put them to good use.</p>
                     <ul class="space-y-2 text-gray-700">
-                        <li>� List free wood chips on Facebook Marketplace - they usually go quickly!</li>
-                        <li>� Post on Nextdoor app for neighbors who want free mulch</li>
-                        <li>� Use as natural mulch around trees and flower beds</li>
-                        <li>� Landscaping companies often want free wood chips</li>
-                        <li>� Some customers spread them in wooded areas of their property</li>
-                        <li>� Note: Tony provides stump grinding only - cleanup service not included</li>
+                        <li>• List free wood chips on Facebook Marketplace - they usually go quickly!</li>
+                        <li>• Post on Nextdoor app for neighbors who want free mulch</li>
+                        <li>• Use as natural mulch around trees and flower beds</li>
+                        <li>• Landscaping companies often want free wood chips</li>
+                        <li>• Some customers spread them in wooded areas of their property</li>
+                        <li>• Note: Tony provides stump grinding only - cleanup service not included</li>
                     </ul>
                 </div>
                 
@@ -795,12 +795,12 @@
                     <h3 class="text-xl font-bold mb-3 red-text">Do you offer free consultations?</h3>
                     <p class="text-gray-700 mb-3">Absolutely! Tony Clark provides free phone consultations and estimates for all stump grinding projects in Union County, Mecklenburg County, and surrounding areas.</p>
                     <ul class="space-y-2 text-gray-700">
-                        <li>� Free phone consultations to discuss your project</li>
-                        <li>� Free estimates provided over the phone for most jobs</li>
-                        <li>� On-site estimates available for complex or large projects</li>
-                        <li>� Call or text 704-492-0474 to schedule your free consultation</li>
-                        <li>� Tony will assess stump size, location, and access requirements</li>
-                        <li>� No obligation - honest, upfront pricing since 1988</li>
+                        <li>• Free phone consultations to discuss your project</li>
+                        <li>• Free estimates provided over the phone for most jobs</li>
+                        <li>• On-site estimates available for complex or large projects</li>
+                        <li>• Call or text 704-492-0474 to schedule your free consultation</li>
+                        <li>• Tony will assess stump size, location, and access requirements</li>
+                        <li>• No obligation - honest, upfront pricing since 1988</li>
                     </ul>
                 </div>
                 
@@ -811,23 +811,23 @@
                         <div>
                             <h4 class="font-semibold text-red-600 mb-2">Union County:</h4>
                             <ul class="space-y-1 text-gray-700">
-                                <li>� Monroe</li>
-                                <li>� Matthews</li>
-                                <li>� Indian Trail</li>
-                                <li>� Weddington</li>
-                                <li>� Wesley Chapel</li>
-                                <li>� Stallings</li>
+                                <li>• Monroe</li>
+                                <li>• Matthews</li>
+                                <li>• Indian Trail</li>
+                                <li>• Weddington</li>
+                                <li>• Wesley Chapel</li>
+                                <li>• Stallings</li>
                             </ul>
                         </div>
                         <div>
                             <h4 class="font-semibold text-red-600 mb-2">Mecklenburg County:</h4>
                             <ul class="space-y-1 text-gray-700">
-                                <li>� Charlotte</li>
-                                <li>� Huntersville</li>
-                                <li>� Cornelius</li>
-                                <li>� Davidson</li>
-                                <li>� Pineville</li>
-                                <li>� Mint Hill</li>
+                                <li>• Charlotte</li>
+                                <li>• Huntersville</li>
+                                <li>• Cornelius</li>
+                                <li>• Davidson</li>
+                                <li>• Pineville</li>
+                                <li>• Mint Hill</li>
                             </ul>
                         </div>
                     </div>
@@ -841,19 +841,19 @@
                         <div>
                             <h4 class="font-semibold text-red-600 mb-2">Residential Customers:</h4>
                             <ul class="space-y-1 text-gray-700">
-                                <li>� Homeowners</li>
-                                <li>� Real estate investors</li>
-                                <li>� Property management companies</li>
-                                <li>� HOA communities</li>
+                                <li>• Homeowners</li>
+                                <li>• Real estate investors</li>
+                                <li>• Property management companies</li>
+                                <li>• HOA communities</li>
                             </ul>
                         </div>
                         <div>
                             <h4 class="font-semibold text-red-600 mb-2">Commercial Customers:</h4>
                             <ul class="space-y-1 text-gray-700">
-                                <li>� Landscaping companies</li>
-                                <li>� Builders and contractors</li>
-                                <li>� Tree service companies</li>
-                                <li>� Municipal projects</li>
+                                <li>• Landscaping companies</li>
+                                <li>• Builders and contractors</li>
+                                <li>• Tree service companies</li>
+                                <li>• Municipal projects</li>
                             </ul>
                         </div>
                     </div>
@@ -863,11 +863,11 @@
                     <h3 class="text-xl font-bold mb-3 red-text">Safety & Equipment Information</h3>
                     <p class="text-gray-700 mb-3">Safety is our top priority. Tony Clark uses professional-grade equipment and follows strict safety protocols on every job.</p>
                     <ul class="space-y-2 text-gray-700">
-                        <li>� Tony wears safety glasses and protective equipment at all times</li>
-                        <li>� Professional-grade remote control precision technology</li>
-                        <li>� Heavy-duty equipment with chip-control safety features</li>
-                        <li>� Over 35 years of experience and happy customers!</li>
-                        <li>� We work with building contractors and landscaping companies!</li>
+                        <li>• Tony wears safety glasses and protective equipment at all times</li>
+                        <li>• Professional-grade remote control precision technology</li>
+                        <li>• Heavy-duty equipment with chip-control safety features</li>
+                        <li>• Over 35 years of experience and happy customers!</li>
+                        <li>• We work with building contractors and landscaping companies!</li>
                     </ul>
                 </div>
             </div>
@@ -951,7 +951,7 @@
     <footer class="bg-gray-800 text-white py-8">
         <div class="container mx-auto px-4 text-center">
             <h3 class="text-2xl font-bold red-text mb-2">Mr. Stump Stump Grinding Service</h3>
-            <p class="text-lg mb-2">Tony Clark � Owner & Operator</p>
+            <p class="text-lg mb-2">Tony Clark – Owner & Operator</p>
             <p class="text-xl font-bold red-text mb-4">704-492-0474</p>
             <p class="mb-2">Serving Union County, Mecklenburg County & Surrounding Areas</p>
             <p class="text-sm text-gray-400">Professional Stump Grinding Since 1988 | MrStump1988.com</p>
@@ -1021,11 +1021,11 @@
                     <label class="block text-sm font-bold mb-2">Rating</label>
                     <select required class="w-full px-3 py-2 border rounded-lg focus:outline-none focus:border-red-500">
                         <option value="">Select Rating</option>
-                        <option value="5">????? (5 stars)</option>
-                        <option value="4">????? (4 stars)</option>
-                        <option value="3">????? (3 stars)</option>
-                        <option value="2">????? (2 stars)</option>
-                        <option value="1">????? (1 star)</option>
+                        <option value="5">★★★★★ (5 stars)</option>
+                        <option value="4">★★★★☆ (4 stars)</option>
+                        <option value="3">★★★☆☆ (3 stars)</option>
+                        <option value="2">★★☆☆☆ (2 stars)</option>
+                        <option value="1">★☆☆☆☆ (1 star)</option>
                     </select>
                 </div>
                 <div class="mb-6">
@@ -1093,11 +1093,11 @@
             <span class="close" onclick="closeBookingCalendar()">&times;</span>
             <h2 class="text-2xl font-bold mb-4 red-text">Schedule Your Service</h2>
             <div class="text-center p-6 bg-yellow-50 rounded-lg">
-                <h3 class="text-lg font-bold mb-3">?? Online Booking Coming Soon!</h3>
+                <h3 class="text-lg font-bold mb-3">🚧 Online Booking Coming Soon!</h3>
                 <p class="mb-4">For now, please call or text Tony directly to schedule your service.</p>
                 <div class="flex gap-4 justify-center">
-                    <a href="tel:704-492-0474" class="bg-red-600 text-white px-6 py-3 rounded-lg font-bold">?? Call Tony</a>
-                    <a href="sms:704-492-0474?body=Hi Tony! I'd like to schedule stump grinding service. When are you available?" class="bg-green-600 text-white px-6 py-3 rounded-lg font-bold">?? Text Tony</a>
+                    <a href="tel:704-492-0474" class="bg-red-600 text-white px-6 py-3 rounded-lg font-bold">📞 Call Tony</a>
+                    <a href="sms:704-492-0474?body=Hi Tony! I'd like to schedule stump grinding service. When are you available?" class="bg-green-600 text-white px-6 py-3 rounded-lg font-bold">💬 Text Tony</a>
                 </div>
             </div>
         </div>
@@ -1215,7 +1215,7 @@
             const reviewsContainer = document.querySelector('.grid.md\\:grid-cols-3.gap-6.mb-8');
             
             // Create star display
-            const stars = '?'.repeat(parseInt(rating)) + '?'.repeat(5 - parseInt(rating));
+            const stars = '★'.repeat(parseInt(rating)) + '☆'.repeat(5 - parseInt(rating));
             
             // Create new review card
             const newReviewCard = document.createElement('div');
@@ -1253,11 +1253,11 @@
             // For now, we'll just show that a new review was added
             const socialProofBanner = document.querySelector('.bg-red-600.text-white.py-3 p');
             if (socialProofBanner) {
-                socialProofBanner.innerHTML = '?? Faith-Based Family Business | ? 4.9/5 Stars | ?? Prompt & Reliable Service | ?? New Review Just Added!';
+                socialProofBanner.innerHTML = '✝️ Faith-Based Family Business | ⭐ 4.9/5 Stars | 🚀 Prompt & Reliable Service | 🆕 New Review Just Added!';
                 
                 // Reset the banner after 10 seconds
                 setTimeout(() => {
-                    socialProofBanner.innerHTML = '?? Faith-Based Family Business | ? 4.9/5 Stars | ?? Prompt & Reliable Service';
+                    socialProofBanner.innerHTML = '✝️ Faith-Based Family Business | ⭐ 4.9/5 Stars | 🚀 Prompt & Reliable Service';
                 }, 10000);
             }
         }
@@ -1478,7 +1478,7 @@
             if (file) {
                 // Check file size (limit to 50MB for better performance)
                 if (file.size > 50 * 1024 * 1024) {
-                    alert('?? Video file is too large. Please use a file smaller than 50MB or upload to YouTube/Vimeo and use the URL option.');
+                    alert('⚠️ Video file is too large. Please use a file smaller than 50MB or upload to YouTube/Vimeo and use the URL option.');
                     return;
                 }
                 
@@ -1487,7 +1487,7 @@
                     currentVideo = e.target.result;
                     videoType = 'file';
                     updateVideoDisplay(currentVideo, 'file');
-                    alert('? Video uploaded! Click "Save & Publish" to make it permanent on your website.');
+                    alert('✅ Video uploaded! Click "Save & Publish" to make it permanent on your website.');
                 };
                 reader.readAsDataURL(file);
             }
@@ -1500,7 +1500,7 @@
                 currentVideo = url;
                 videoType = 'url';
                 updateVideoDisplay(url, 'url');
-                alert('? Video URL added! Click "Save & Publish" to make it permanent on your website.');
+                alert('✅ Video URL added! Click "Save & Publish" to make it permanent on your website.');
                 document.getElementById('videoUrl').value = '';
             } else {
                 alert('Please enter a valid video URL');
@@ -1566,7 +1566,7 @@
                 if (index < 6) { // Limit to 6 photos
                     // Check file size (limit to 5MB per image)
                     if (file.size > 5 * 1024 * 1024) {
-                        alert(`?? Image ${file.name} is too large. Please use images smaller than 5MB.`);
+                        alert(`⚠️ Image ${file.name} is too large. Please use images smaller than 5MB.`);
                         return;
                     }
                     
@@ -1586,7 +1586,7 @@
                         
                         processedCount++;
                         if (processedCount === Math.min(files.length, 6)) {
-                            alert(`? ${processedCount} photos uploaded! Click "Save & Publish" to make them permanent on your website.`);
+                            alert(`✅ ${processedCount} photos uploaded! Click "Save & Publish" to make them permanent on your website.`);
                         }
                     };
                     reader.readAsDataURL(file);
@@ -1610,11 +1610,11 @@
                         <p class="text-lg font-semibold mb-2">Professional Stump Grinding</p>
                         <p class="text-sm opacity-80">Remote Control Precision Technology</p>
                         <button onclick="openAdminPanel()" class="mt-4 bg-blue-600 hover:bg-blue-700 text-white px-4 py-2 rounded-lg text-sm">
-                            ?? Upload Your Video
+                            📹 Upload Your Video
                         </button>
                     </div>
                 `;
-                alert('? Video removed successfully!');
+                alert('✅ Video removed successfully!');
             }
         }
 
@@ -1649,7 +1649,7 @@
                     `;
                 });
                 
-                alert('? All photos removed successfully!');
+                alert('✅ All photos removed successfully!');
             }
         }
 
