@@ -967,5 +967,51 @@
     </div>
 </footer>
 
+ <!-- JavaScript Functions -->
+    <script>
+    // Map functionality
+    function showCountyInfo(county) {
+        const info = {
+            'Union County': 'Serving Monroe, Matthews, Indian Trail, Weddington, and all of Union County',
+            'Mecklenburg County': 'Serving Charlotte, Huntersville, Cornelius, and all of Mecklenburg County'
+        };
+        document.getElementById('mapInfoTitle').textContent = county;
+        document.getElementById('mapInfoText').textContent = info[county];
+        document.getElementById('mapInfo').classList.remove('hidden');
+    }
+
+    function showCityInfo(city) {
+        document.getElementById('mapInfoTitle').textContent = city;
+        document.getElementById('mapInfoText').textContent = `Professional stump grinding services in ${city}`;
+        document.getElementById('mapInfo').classList.remove('hidden');
+    }
+
+    function hideMapInfo() {
+        document.getElementById('mapInfo').classList.add('hidden');
+    }
+
+    function callForService() {
+        window.location.href = 'tel:704-492-0474';
+    }
+
+    // Modal functionality
+    function openQuoteCalculator() {
+        alert("Please call or text Tony at 704-492-0474 for a free stump grinding quote!");
+    }
+
+    function closeExitIntent() {
+        document.getElementById('exitIntentPopup').style.display = 'none';
+    }
+
+    // Exit intent popup
+    document.addEventListener('mouseout', function(e) {
+        if (!e.relatedTarget && e.clientY < 10) {
+            document.getElementById('exitIntentPopup').style.display = 'block';
+        }
+    });
+    </script>
+    
+</body>
+</html>
 
 
